@@ -1,0 +1,14 @@
+.titleBackground {
+  background-image: url("https://cdn.wccftech.com/wp-content/uploads/2016/10/Final-Fantasy-XV-HDR.jpg");
+  background-size: 300px;
+  width: 300px;
+  height: 300px;
+  border: 2px solid;
+  color: greenyellow
+}
+
+h1 {
+  font-size: 100px;
+  color: black;
+
+}
